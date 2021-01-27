@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 🐥“Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.”
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Young Blog를 운영하고 있는 JiYoung Kwon입니다 :)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- Beginning developer
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+저에 대해 궁금하시다면 제 GitHub에 놀러오세요!
+https://github.com/JiYoung-Kwon
