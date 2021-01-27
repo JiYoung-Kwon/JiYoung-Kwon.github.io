@@ -8,9 +8,22 @@ tags: [Algorithm, programmers]
 comments: true
 ---
 
+안녕하세요~ Young Blog입니다!
+
+첫 게시글은 프로그래머스 level2 주식가격 문제 풀이입니다.
+
+이 문제는 스택/큐로 분류되어 있어요~!
+
+저는 JAVA를 사용해서 문제를 풀었습니다!
+
+여러가지 문제에 대한 풀이 코드는 **깃허브** 를 통해서도 확인하실 수 있어요~!!
+
+:pushpin: https://github.com/JiYoung-Kwon/Algorithm-study
 
 
 # Problem
+
+[programmers 코딩 테스트 고득점 Kit](https://programmers.co.kr/learn/challenges) - 스택/큐 level2 주식가격 문제
 
 ##### 문제 설명
 
