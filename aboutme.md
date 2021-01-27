@@ -11,4 +11,4 @@ Young Blog를 운영하고 있는 JiYoung Kwon입니다 :)
 ### My story
 
 저에 대해 궁금하시다면 제 GitHub에 놀러오세요!
-https://github.com/JiYoung-Kwon
+[https://github.com/JiYoung-Kwon](https://github.com/JiYoung-Kwon)
