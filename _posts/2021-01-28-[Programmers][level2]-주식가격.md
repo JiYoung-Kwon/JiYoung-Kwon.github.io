@@ -18,7 +18,8 @@ comments: true
 
 여러가지 문제에 대한 풀이 코드는 **깃허브** 를 통해서도 확인하실 수 있어요~!!
 
-📌 https://github.com/JiYoung-Kwon/Algorithm-study
+📌 [https://github.com/JiYoung-Kwon/Algorithm-study](https://github.com/JiYoung-Kwon/Algorithm-study)
+
 
 ***
 
